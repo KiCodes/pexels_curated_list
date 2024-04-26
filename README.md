@@ -18,7 +18,7 @@ To get started with the Pexels Curated List app, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone [https://github.com/your-username/pexels_curated_list.git](https://github.com/KiCodes/pexels_curated_list.git)
+git clone [https://github.com/KiCodes/pexels_curated_list.git](https://github.com/KiCodes/pexels_curated_list.git)
 
 2. Navigate to the project directory:
 3. Install dependencies using Flutter:
